@@ -1,0 +1,23 @@
+C:\Users\Juliana\Documents\BACHAREL SISTEMA DE INFOMAÇÃO\ConsumoEnergia\ConsumoEnergia\bin\Debug\net6.0\ConsumoEnergia.exe
+C:\Users\Juliana\Documents\BACHAREL SISTEMA DE INFOMAÇÃO\ConsumoEnergia\ConsumoEnergia\bin\Debug\net6.0\ConsumoEnergia.deps.json
+C:\Users\Juliana\Documents\BACHAREL SISTEMA DE INFOMAÇÃO\ConsumoEnergia\ConsumoEnergia\bin\Debug\net6.0\ConsumoEnergia.runtimeconfig.json
+C:\Users\Juliana\Documents\BACHAREL SISTEMA DE INFOMAÇÃO\ConsumoEnergia\ConsumoEnergia\bin\Debug\net6.0\ConsumoEnergia.dll
+C:\Users\Juliana\Documents\BACHAREL SISTEMA DE INFOMAÇÃO\ConsumoEnergia\ConsumoEnergia\bin\Debug\net6.0\ConsumoEnergia.pdb
+C:\Users\Juliana\Documents\BACHAREL SISTEMA DE INFOMAÇÃO\ConsumoEnergia\ConsumoEnergia\obj\Debug\net6.0\ConsumoEnergia.csproj.AssemblyReference.cache
+C:\Users\Juliana\Documents\BACHAREL SISTEMA DE INFOMAÇÃO\ConsumoEnergia\ConsumoEnergia\obj\Debug\net6.0\ConsumoEnergia.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Juliana\Documents\BACHAREL SISTEMA DE INFOMAÇÃO\ConsumoEnergia\ConsumoEnergia\obj\Debug\net6.0\ConsumoEnergia.AssemblyInfoInputs.cache
+C:\Users\Juliana\Documents\BACHAREL SISTEMA DE INFOMAÇÃO\ConsumoEnergia\ConsumoEnergia\obj\Debug\net6.0\ConsumoEnergia.AssemblyInfo.cs
+C:\Users\Juliana\Documents\BACHAREL SISTEMA DE INFOMAÇÃO\ConsumoEnergia\ConsumoEnergia\obj\Debug\net6.0\ConsumoEnergia.csproj.CoreCompileInputs.cache
+C:\Users\Juliana\Documents\BACHAREL SISTEMA DE INFOMAÇÃO\ConsumoEnergia\ConsumoEnergia\obj\Debug\net6.0\ConsumoEnergia.dll
+C:\Users\Juliana\Documents\BACHAREL SISTEMA DE INFOMAÇÃO\ConsumoEnergia\ConsumoEnergia\obj\Debug\net6.0\refint\ConsumoEnergia.dll
+C:\Users\Juliana\Documents\BACHAREL SISTEMA DE INFOMAÇÃO\ConsumoEnergia\ConsumoEnergia\obj\Debug\net6.0\ConsumoEnergia.pdb
+C:\Users\Juliana\Documents\BACHAREL SISTEMA DE INFOMAÇÃO\ConsumoEnergia\ConsumoEnergia\obj\Debug\net6.0\ConsumoEnergia.genruntimeconfig.cache
+C:\Users\Juliana\Documents\BACHAREL SISTEMA DE INFOMAÇÃO\ConsumoEnergia\ConsumoEnergia\obj\Debug\net6.0\ref\ConsumoEnergia.dll
+C:\Users\Juliana\Documents\STRUCTS2023\ConsumoEnergia\ConsumoEnergia\obj\Debug\net6.0\ConsumoEnergia.csproj.AssemblyReference.cache
+C:\Users\Juliana\Documents\STRUCTS2023\ConsumoEnergia\ConsumoEnergia\obj\Debug\net6.0\ConsumoEnergia.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Juliana\Documents\STRUCTS2023\ConsumoEnergia\ConsumoEnergia\obj\Debug\net6.0\ConsumoEnergia.AssemblyInfoInputs.cache
+C:\Users\Juliana\Documents\STRUCTS2023\ConsumoEnergia\ConsumoEnergia\obj\Debug\net6.0\ConsumoEnergia.AssemblyInfo.cs
+C:\Users\Juliana\Documents\STRUCTS2023\ConsumoEnergia\ConsumoEnergia\obj\Debug\net6.0\ConsumoEnergia.csproj.CoreCompileInputs.cache
+C:\Users\Juliana\Documents\STRUCTS2023\ConsumoEnergia\ConsumoEnergia\obj\Debug\net6.0\ConsumoEnergia.dll
+C:\Users\Juliana\Documents\STRUCTS2023\ConsumoEnergia\ConsumoEnergia\obj\Debug\net6.0\refint\ConsumoEnergia.dll
+C:\Users\Juliana\Documents\STRUCTS2023\ConsumoEnergia\ConsumoEnergia\obj\Debug\net6.0\ConsumoEnergia.pdb

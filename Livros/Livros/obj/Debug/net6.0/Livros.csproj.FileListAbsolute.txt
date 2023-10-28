@@ -1,0 +1,23 @@
+C:\Users\Juliana\Documents\BACHAREL SISTEMA DE INFOMAÇÃO\Livros\Livros\bin\Debug\net6.0\Livros.exe
+C:\Users\Juliana\Documents\BACHAREL SISTEMA DE INFOMAÇÃO\Livros\Livros\bin\Debug\net6.0\Livros.deps.json
+C:\Users\Juliana\Documents\BACHAREL SISTEMA DE INFOMAÇÃO\Livros\Livros\bin\Debug\net6.0\Livros.runtimeconfig.json
+C:\Users\Juliana\Documents\BACHAREL SISTEMA DE INFOMAÇÃO\Livros\Livros\bin\Debug\net6.0\Livros.dll
+C:\Users\Juliana\Documents\BACHAREL SISTEMA DE INFOMAÇÃO\Livros\Livros\bin\Debug\net6.0\Livros.pdb
+C:\Users\Juliana\Documents\BACHAREL SISTEMA DE INFOMAÇÃO\Livros\Livros\obj\Debug\net6.0\Livros.csproj.AssemblyReference.cache
+C:\Users\Juliana\Documents\BACHAREL SISTEMA DE INFOMAÇÃO\Livros\Livros\obj\Debug\net6.0\Livros.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Juliana\Documents\BACHAREL SISTEMA DE INFOMAÇÃO\Livros\Livros\obj\Debug\net6.0\Livros.AssemblyInfoInputs.cache
+C:\Users\Juliana\Documents\BACHAREL SISTEMA DE INFOMAÇÃO\Livros\Livros\obj\Debug\net6.0\Livros.AssemblyInfo.cs
+C:\Users\Juliana\Documents\BACHAREL SISTEMA DE INFOMAÇÃO\Livros\Livros\obj\Debug\net6.0\Livros.csproj.CoreCompileInputs.cache
+C:\Users\Juliana\Documents\BACHAREL SISTEMA DE INFOMAÇÃO\Livros\Livros\obj\Debug\net6.0\Livros.dll
+C:\Users\Juliana\Documents\BACHAREL SISTEMA DE INFOMAÇÃO\Livros\Livros\obj\Debug\net6.0\refint\Livros.dll
+C:\Users\Juliana\Documents\BACHAREL SISTEMA DE INFOMAÇÃO\Livros\Livros\obj\Debug\net6.0\Livros.pdb
+C:\Users\Juliana\Documents\BACHAREL SISTEMA DE INFOMAÇÃO\Livros\Livros\obj\Debug\net6.0\Livros.genruntimeconfig.cache
+C:\Users\Juliana\Documents\BACHAREL SISTEMA DE INFOMAÇÃO\Livros\Livros\obj\Debug\net6.0\ref\Livros.dll
+C:\Users\Juliana\Documents\BACHAREL SISTEMA DE INFOMAÇÃO\MEUS C#\Livros\Livros\obj\Debug\net6.0\Livros.csproj.AssemblyReference.cache
+C:\Users\Juliana\Documents\BACHAREL SISTEMA DE INFOMAÇÃO\MEUS C#\Livros\Livros\obj\Debug\net6.0\Livros.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Juliana\Documents\BACHAREL SISTEMA DE INFOMAÇÃO\MEUS C#\Livros\Livros\obj\Debug\net6.0\Livros.AssemblyInfoInputs.cache
+C:\Users\Juliana\Documents\BACHAREL SISTEMA DE INFOMAÇÃO\MEUS C#\Livros\Livros\obj\Debug\net6.0\Livros.AssemblyInfo.cs
+C:\Users\Juliana\Documents\BACHAREL SISTEMA DE INFOMAÇÃO\MEUS C#\Livros\Livros\obj\Debug\net6.0\Livros.csproj.CoreCompileInputs.cache
+C:\Users\Juliana\Documents\BACHAREL SISTEMA DE INFOMAÇÃO\MEUS C#\Livros\Livros\obj\Debug\net6.0\Livros.dll
+C:\Users\Juliana\Documents\BACHAREL SISTEMA DE INFOMAÇÃO\MEUS C#\Livros\Livros\obj\Debug\net6.0\refint\Livros.dll
+C:\Users\Juliana\Documents\BACHAREL SISTEMA DE INFOMAÇÃO\MEUS C#\Livros\Livros\obj\Debug\net6.0\Livros.pdb
